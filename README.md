@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
-  <img src="sharon-art-avatar.png" alt="Sharon creativity and coding illustration" width="400"/>
+  <img src="sharon_art_avatar.png" alt="Sharon" width="400"/>
 </p>
 
 ### 🧠 Projects & Research Highlights
