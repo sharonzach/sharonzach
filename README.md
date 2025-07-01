@@ -17,6 +17,9 @@
 🌱 Currently exploring: **Generative AI**, **Power BI**, **MATLAB Vision**, and **Neuroscience + AI**
 
 ---
+<p align="center">
+  <img src="sharon-art-avatar.png" alt="Sharon creativity and coding illustration" width="400"/>
+</p>
 
 ### 🧠 Projects & Research Highlights
 
@@ -34,42 +37,46 @@
 
 ### 🧰 Tech Stack
 
-```python
-Languages     = ["Python", "R", "MATLAB", "Java", "C"]
-ML/AI         = ["Scikit-learn", "TensorFlow", "RapidMiner", "CNN", "SVM", "U-Net"]
-Data Viz      = ["Power BI", "Tableau", "Seaborn", "Matplotlib"]
-Tools         = ["VS Code", "Jupyter", "Git", "Excel", "Forage", "Visual Basics"]
-📜 Certifications
-✅ Python Programming
+#### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-✅ R Programming
+#### 🧠 ML / AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-brightgreen?style=flat)
+![SVM](https://img.shields.io/badge/SVM-FF5733?style=flat)
+![U-Net](https://img.shields.io/badge/U--Net-blue?style=flat)
+![RapidMiner](https://img.shields.io/badge/RapidMiner-yellow?style=flat)
 
-✅ MATLAB Programming
+#### 📊 Visualization & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
-✅ Image Processing using MATLAB
+#### 🛠️ Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-✅ Power BI
 
-✅ Deep Learning
 
-✅ Natural Language Processing (NLP)
 
-🏆 Achievements
-🛰️ Top 150 National Teams – ISRO Rover Making Challenge
+### 📈 GitHub Stats
 
-🥇 1st Place – Electroblitz, DSU
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharonzach&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonzach&theme=tokyonight" width="48%"/>
+</p>
 
-🥉 3rd Place – Ideathon, DSU
-
-🧠 Prototype Phase Qualifier – IEEE Girl Geeks 2024
-
-💡 SIH 2024, Myntra Hackerramp, REVA Hackathon – Participant
-
-☁️ Vultr Cloud Innovate Hackathon – Contributor
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharonzach&show_icons=true&theme=tokyonight" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonzach&theme=tokyonight" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzach&layout=compact&theme=tokyonight" width="40%"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzach&layout=compact&theme=tokyonight" width="40%"/>
+</p>
 📄 Publications
 📝 Multiple Sclerosis Detection using ML for Medical Imaging
 International Conference on Advancement in Communication & Computing in Technology (INOACC), 2025
@@ -81,8 +88,9 @@ International Conference on Advancement in Communication & Computing in Technolo
 
 📊 Tata Group Data Visualization Simulation (Forage)
 
-💬 Languages I Speak
-English, Hindi, Malayalam, Kannada
+### 🌐 Languages I Speak
+
+> English | Hindi | Malayalam | Kannada
 
 👀 Profile Visitors
 
