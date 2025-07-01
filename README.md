@@ -68,7 +68,8 @@ Tools         = ["VS Code", "Jupyter", "Git", "Excel", "Forage", "Visual Basics"
 ☁️ Vultr Cloud Innovate Hackathon – Contributor
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharonzach&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonzach&theme=tokyonight" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzach&layout=compact&theme=tokyonight" width="40%"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sharonzach&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonzach&theme=tokyonight" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzach&layout=compact&theme=tokyonight" width="40%"/> </p>
 📄 Publications
 📝 Multiple Sclerosis Detection using ML for Medical Imaging
 International Conference on Advancement in Communication & Computing in Technology (INOACC), 2025
